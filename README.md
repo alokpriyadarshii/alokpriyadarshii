@@ -1,13 +1,8 @@
 <h1 align="center">Hi, I'm Alok Priyadarshi 👋</h1>
 
 <p align="center">
-  <a href="mailto:alokpriyadarshi618@gmail.com" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" />
-  </a>
+  <a href="mailto:alokpriyadarshi618@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" /></a>
 </p>
 
 <p align="center">
@@ -18,9 +13,9 @@
 
 ## 👤 About Me
 
-I’m **Alok Priyadarshi**, a final-year undergraduate **B.Tech Computer Engineering** student at **Thapar Institute of Engineering & Technology**.  
-I’m currently contributing to **open-source GitHub projects** and building tools that can help people and create real impact in society.  
-These days, I’m focused on learning and improving by aligning my skills with **industry requirements** and shipping practical projects.
+I’m <b>Alok Priyadarshi</b>, a final-year undergraduate <b>B.Tech Computer Engineering</b> student at <b>Thapar Institute of Engineering & Technology</b>.<br/>
+I’m currently contributing to <b>open-source GitHub projects</b> and building tools that can help people and create real impact in society.<br/>
+These days, I’m focused on learning and improving by aligning my skills with <b>industry requirements</b> and shipping practical projects.
 
 ---
 
@@ -36,7 +31,7 @@ These days, I’m focused on learning and improving by aligning my skills with *
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" style="margin-left:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
 </p>
 
 ---
@@ -53,7 +48,7 @@ These days, I’m focused on learning and improving by aligning my skills with *
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" style="margin-left:10px;" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
 ---
@@ -68,5 +63,5 @@ These days, I’m focused on learning and improving by aligning my skills with *
 
 ## 📫 Reach Me
 
-- **Email:** alokpriyadarshi618@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/alok-priyadarshi-02bb65330/
+- <b>Email:</b> alokpriyadarshi618@gmail.com<br/>
+- <b>LinkedIn:</b> https://www.linkedin.com/in/alok-priyadarshi-02bb65330/
