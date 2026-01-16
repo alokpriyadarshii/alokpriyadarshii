@@ -39,7 +39,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 ## 🧰 Dev Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,matlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab" />
 </p>
 
 ---
@@ -65,3 +65,4 @@ These days, I’m focused on learning and improving by aligning my skills with <
 
 - <b>Email:</b> alokpriyadarshi618@gmail.com<br/>
 - <b>LinkedIn:</b> https://www.linkedin.com/in/alok-priyadarshi-02bb65330/
+
