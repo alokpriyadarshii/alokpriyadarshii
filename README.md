@@ -22,7 +22,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,ruby" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ruby" />
 </p>
 
 ---
@@ -39,7 +39,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 ## 🧰 Dev Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab,ubuntu" />
 </p>
 
 ---
