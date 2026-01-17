@@ -22,7 +22,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,ruby" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby" />
 </p>
 
 ---
@@ -65,4 +65,3 @@ These days, I’m focused on learning and improving by aligning my skills with <
 
 - <b>Email:</b> alokpriyadarshi618@gmail.com<br/>
 - <b>LinkedIn:</b> https://www.linkedin.com/in/alok-priyadarshi-02bb65330/
-
