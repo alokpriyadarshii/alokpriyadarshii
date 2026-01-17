@@ -1,13 +1,6 @@
 <h1 align="center">Hi, I'm Alok Priyadarshi 👋</h1>
 
-<p align="center">
-  <a href="mailto:alokpriyadarshi618@gmail.com" title="Email"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" title="LinkedIn"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" /></a>
-</p>
-
-<p align="center">
-  <i>"KEEP CHASING EXCELLENCE"</i>
-</p>
+<h2 align="center"><i>"KEEP CHASING EXCELLENCE"</i></h2>
 
 ---
 
@@ -16,6 +9,16 @@
 I’m <b>Alok Priyadarshi</b>, a final-year undergraduate <b>B.Tech Computer Engineering</b> student at <b>Thapar Institute of Engineering & Technology</b>.<br/>
 I’m currently contributing to <b>open-source GitHub projects</b> and building tools that can help people and create real impact in society.<br/>
 These days, I’m focused on learning and improving by aligning my skills with <b>industry requirements</b> and shipping practical projects.
+
+---
+
+## 🤝 Let’s Connect
+
+<p align="left">
+  <a href="mailto:alokpriyadarshi618@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="" /></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="" /></a>
+</p>
 
 ---
 
@@ -59,9 +62,3 @@ These days, I’m focused on learning and improving by aligning my skills with <
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
----
-
-## 📫 Reach Me
-
-- <b>Email:</b> alokpriyadarshi618@gmail.com<br/>
-- <b>LinkedIn:</b> https://www.linkedin.com/in/alok-priyadarshi-02bb65330/
