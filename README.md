@@ -18,8 +18,6 @@ These days, I’m focused on learning and improving by aligning my skills with <
   <a href="mailto:alokpriyadarshi618@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="" /></a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AlokPriyadarshii/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/leetcode/leetcode-original.svg" height="55" alt="LeetCode" /></a>
 </p>
 
 ---
