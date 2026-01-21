@@ -6,8 +6,8 @@
 
 ## 👤 About Me
 
-I’m <b>Alok Priyadarshi</b>, a final-year undergraduate <b>B.Tech Computer Engineering</b> student at <b>Thapar Institute of Engineering & Technology</b>.<br/>
-I’m currently contributing to <b>open-source GitHub projects</b> and building tools that can help people and create real impact in society.<br/>
+I’m <b>Alok Priyadarshi</b>, a final year undergraduate <b>B.Tech Computer Engineering</b> student at <b>Thapar Institute of Engineering & Technology</b>.<br/>
+I’m currently contributing to <b>open source GitHub projects</b> and building tools that can help people and create real impact in society.<br/>
 These days, I’m focused on learning and improving by aligning my skills with <b>industry requirements</b> and shipping practical projects.
 
 ---
