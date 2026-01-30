@@ -25,7 +25,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 ## 💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby,go" />
 </p>
 
 ---
