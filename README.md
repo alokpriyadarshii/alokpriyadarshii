@@ -64,7 +64,7 @@ These days, I’m focused on learning and improving by aligning my skills with <
 
 ---
 
-## 📈 Contribution Graph (January)
+## 📈 Contribution Graph
 
 <p align="center">
   <img
@@ -73,3 +73,4 @@ These days, I’m focused on learning and improving by aligning my skills with <
     width="95%"
   />
 </p>
+
