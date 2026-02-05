@@ -56,12 +56,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpriyadarshii&theme=highcontrast&hide_border=true" height="160" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&theme=highcontrast&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokpriyadarshii&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&theme=highcontrast&hide_border=false&border_color=ffffff" height="180" alt="Most Used Languages" />
 </div>
 
 ## 📈 Contribution Graph
