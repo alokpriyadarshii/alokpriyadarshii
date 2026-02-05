@@ -56,7 +56,7 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
 <div align="center">
-  <img src="./assets/github-streak.svg" height="160" alt="GitHub Streak" />
+<img src="./assets/github-streak.svg" height="200" alt="GitHub Streak" />
 </div>
 
 <div height="16"></div>
