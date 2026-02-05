@@ -9,7 +9,6 @@
 
 </div>
 
----
 
 ## 👤 About Me
 
@@ -19,58 +18,50 @@
 - 💬 Ask me about **DSA, Full Stack, AI/ML, Open Source**
 - 📫 Reach me at: **alokpriyadarshi618@gmail.com**
 
----
 
-## 🤝 Let's Connect
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**
 
 <p align="left">
-  <a href="mailto:alokpriyadarshi618@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AlokPriyadarshii/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
-  </a>
+  <a href="mailto:alokpriyadarshi618@gmail.com" target="_blank"><img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AlokPriyadarshii/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" /></a>
 </p>
 
----
 
-## 🧰 Tech Arsenal
 
-### 💻 Programming Languages
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**
+
+
+### Programming Languages
 <p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby,go" />
 </p>
 
-### 📚 AI/ML Libraries
+### AI/ML Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
 </p>
 
-### 🛠️ Dev Tools
+### Dev Tools
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab,ubuntu" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
-### ⚙️ Tools & Frameworks
+### Tools & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
----
 
-## 📊 GitHub Stats
+
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" height="160" />
@@ -81,7 +72,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&theme=highcontrast&hide_border=true" height="160" />
 </div>
 
----
+
 
 
 ## 📈 Contribution Graph
@@ -92,7 +83,6 @@
 
 </div>
 
----
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
