@@ -64,8 +64,6 @@
   <img src="./assets/top-langs.svg" height="180" alt="Most Used Languages" />
 </div>
 
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
