@@ -1,72 +1,88 @@
-<h1 align="center">Hi, I'm Alok Priyadarshi 👋</h1>
+<h1 align="center">
+  Hi there <img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" width="40" alt="waving hand" />
+  I'm Alok Priyadarshi
+</h1>
 
 <h2 align="center"><i>"KEEP CHASING EXCELLENCE"</i></h2>
+
+<div align="center">
+
+</div>
 
 ---
 
 ## 👤 About Me
 
-I’m <b>Alok Priyadarshi</b>, a final year undergraduate <b>B.Tech Computer Engineering</b> student at <b>Thapar Institute of Engineering & Technology</b>.<br/>
-I’m currently contributing to <b>open source GitHub projects</b> and building tools that can help people and create real impact in society.<br/>
-These days, I’m focused on learning and improving by aligning my skills with <b>industry requirements</b> and shipping practical projects.
+- 🎓 Final year **B.Tech Computer Engineering** student at **Thapar Institute of Engineering & Technology**
+- 🔭 Contributing to **open source GitHub projects** and building tools that create real impact
+- 🌱 Currently focusing on **industry aligned skills** and shipping practical projects
+- 💬 Ask me about **DSA, Full Stack, AI/ML, Open Source**
+- 📫 Reach me at: **alokpriyadarshi618@gmail.com**
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 
 <p align="left">
-  <a href="mailto:alokpriyadarshi618@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="55" alt="Gmail" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/"><img src="https://skillicons.dev/icons?i=linkedin" height="55" alt="LinkedIn" /></a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/AlokPriyadarshii/">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="55" alt="LeetCode" />
+  <a href="mailto:alokpriyadarshi618@gmail.com" target="_blank">
+    <img src="https://skillicons.dev/icons?i=gmail" height="40" alt="Gmail" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/alok-priyadarshi-02bb65330/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://leetcode.com/u/AlokPriyadarshii/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" />
   </a>
 </p>
 
 ---
 
-## 💻 Programming Languages
+## 🧰 Tech Arsenal
 
-<p align="left">
+### 💻 Programming Languages
+<p>
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby,go" />
 </p>
 
----
-
-## 📚 AI/ML Libraries
-
-<p align="left">
+### 📚 AI/ML Libraries
+<p>
   <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" height="48" alt="scikit-learn" />
 </p>
 
----
-
-## 🧰 Dev Tools
-
-<p align="left">
+### 🛠️ Dev Tools
+<p>
   <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab,ubuntu" />
 </p>
 
----
-
-## 🗄️ Databases
-
-<p align="left">
+### 🗄️ Databases
+<p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
----
-
-## ⚙️ Tools & Frameworks
-
-<p align="left">
+### ⚙️ Tools & Frameworks
+<p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
 ---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alokpriyadarshii&theme=highcontrast&hide_border=true" height="160" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&theme=highcontrast&hide_border=true" height="160" />
+</div>
+
+---
+
 
 ## 📈 Contribution Graph
 
@@ -75,3 +91,9 @@ These days, I’m focused on learning and improving by aligning my skills with <
 [![Alok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=alokpriyadarshii&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
+</p>
