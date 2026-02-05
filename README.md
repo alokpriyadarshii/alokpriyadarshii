@@ -56,8 +56,8 @@
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
 <div align="center">
-  <img src="./assets/top-langs.svg" width="49%" alt="Most Used Languages" />
-  <img src="./assets/github-streak.svg" width="49%" alt="GitHub Streak" />
+  <img src="./assets/top-langs.svg" width="48.5%" alt="Most Used Languages" style="margin-right: 1%;" />
+  <img src="./assets/github-streak.svg" width="48.5%" alt="GitHub Streak" style="margin-left: 1%;" />
 </div>
 
 ## 📈 Contribution Graph
