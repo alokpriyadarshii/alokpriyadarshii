@@ -39,7 +39,7 @@
 
 ### Dev Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,matlab,ubuntu" />
+  <img src="https://skillicons.dev/icons?i=vscode,git,github,aws,docker,postman,arduino,matlab,ubuntu,linux" />
 </p>
 
 ### Databases
@@ -50,7 +50,7 @@
 
 ### Tools & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express" />
 </p>
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
@@ -75,4 +75,3 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
-
