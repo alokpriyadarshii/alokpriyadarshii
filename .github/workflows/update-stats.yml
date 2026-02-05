@@ -1,0 +1,49 @@
+name: Update README Stats Images
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 0 * * *"  # daily
+
+permissions:
+  contents: write
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Download stats SVGs
+        run: |
+          mkdir -p assets
+
+          curl -L --fail --retry 5 --retry-delay 2 \
+            "https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" \
+            -o assets/github-stats.svg \
+          || curl -L --fail --retry 5 --retry-delay 2 \
+            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" \
+            -o assets/github-stats.svg
+
+          curl -L --fail --retry 5 --retry-delay 2 \
+            "https://streak-stats.demolab.com?user=alokpriyadarshii&theme=highcontrast&hide_border=true" \
+            -o assets/github-streak.svg
+
+          curl -L --fail --retry 5 --retry-delay 2 \
+            "https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&theme=highcontrast&hide_border=false&border_color=ffffff" \
+            -o assets/top-langs.svg \
+          || curl -L --fail --retry 5 --retry-delay 2 \
+            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&theme=highcontrast&hide_border=false&border_color=ffffff" \
+            -o assets/top-langs.svg
+
+      - name: Commit & push if changed
+        run: |
+          if git diff --quiet; then
+            echo "No changes."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git commit -m "chore: update stats svgs"
+          git push
