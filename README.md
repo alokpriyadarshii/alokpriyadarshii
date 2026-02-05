@@ -6,9 +6,7 @@
 <h2 align="center"><i>"KEEP CHASING EXCELLENCE"</i></h2>
 
 <div align="center">
-
 </div>
-
 
 ## 👤 About Me
 
@@ -18,7 +16,6 @@
 - 💬 Ask me about **DSA, Full Stack, AI/ML, Open Source**
 - 📫 Reach me at: **alokpriyadarshi618@gmail.com**
 
-
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**
 
 <p align="left">
@@ -27,14 +24,11 @@
   <a href="https://leetcode.com/u/AlokPriyadarshii/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" height="40" alt="LeetCode" /></a>
 </p>
 
-
-
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" alt="Hammer and Wrench" width="30" height="30" /> **Tech Arsenal**
-
 
 ### Programming Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,r,ruby,go" />
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js,html,css,r,ruby,go" />
 </p>
 
 ### AI/ML Libraries
@@ -50,7 +44,7 @@
 
 ### Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" height="48" alt="Oracle" />
 </p>
 
@@ -58,8 +52,6 @@
 <p>
   <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
-
-
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> **GitHub Stats**
 
@@ -72,9 +64,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&theme=highcontrast&hide_border=true" height="160" />
 </div>
 
-
-
-
 ## 📈 Contribution Graph
 
 <div align="center">
@@ -83,7 +72,7 @@
 
 </div>
 
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=footer"/>
 </p>
+
