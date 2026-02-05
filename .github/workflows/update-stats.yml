@@ -21,6 +21,9 @@ jobs:
 
       - name: Download stats SVGs
         shell: bash
+        env:
+          GH_USERNAME: alokpriyadarshii
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: |
           set -euo pipefail
           mkdir -p assets
@@ -28,6 +31,17 @@ jobs:
           is_valid_svg() {
             local file="$1"
             [[ -s "$file" ]] && grep -qi "<svg" "$file"
+          }
+
+          write_fallback_svg() {
+            local output_file="$1"
+            local message="$2"
+            printf '%s\n' \
+              '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Stats unavailable">' \
+              '  <rect width="495" height="195" fill="#0d1117" />' \
+              "  <text x=\"50%\" y=\"50%\" dominant-baseline=\"middle\" text-anchor=\"middle\" fill=\"#c9d1d9\" font-family=\"Segoe UI, Arial, sans-serif\" font-size=\"20\">${message}</text>" \
+              '</svg>' > "$output_file"
+            echo "Wrote fallback SVG: $output_file"
           }
 
           download_svg() {
@@ -39,17 +53,13 @@ jobs:
 
             local url
             for url in "$@"; do
-              echo "Trying: $url"
               if curl -A "Mozilla/5.0" -fsSL --connect-timeout 10 --max-time 30 --retry 5 --retry-delay 2 "$url" -o "$temp_file"; then
                 if is_valid_svg "$temp_file"; then
                   mv "$temp_file" "$output_file"
-                  echo "Updated $output_file"
                   rm -f "$temp_file"
+                  echo "Updated $output_file"
                   return 0
                 fi
-                echo "Response was not a valid SVG: $url"
-              else
-                echo "Failed to fetch: $url"
               fi
             done
 
@@ -60,25 +70,24 @@ jobs:
               return 0
             fi
 
-            printf '%s\n' \
-              '<svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Stats unavailable">' \
-              '  <rect width="495" height="195" fill="#0d1117" />' \
-              '  <text x="50%" y="50%" dominant-baseline="middle" text-anchor="middle" fill="#c9d1d9" font-family="Segoe UI, Arial, sans-serif" font-size="20">Stats temporarily unavailable</text>' \
-              '</svg>' > "$output_file"
-            echo "Wrote fallback SVG: $output_file"
+            write_fallback_svg "$output_file" "Stats temporarily unavailable"
           }
 
           download_svg assets/github-stats.svg \
-            "https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true" \
-            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true"
+            "https://github-readme-stats.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=21600" \
+            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=alokpriyadarshii&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=21600"
 
           download_svg assets/github-streak.svg \
             "https://streak-stats.demolab.com?user=alokpriyadarshii&theme=highcontrast&hide_border=true" \
             "https://github-readme-streak-stats.herokuapp.com/?user=alokpriyadarshii&theme=highcontrast&hide_border=true"
 
-          download_svg assets/top-langs.svg \
-            "https://github-readme-stats.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&theme=highcontrast&hide_border=false&border_color=ffffff" \
-            "https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=8&custom_title=Most%20Used%20Languages&theme=highcontrast&hide_border=false&border_color=ffffff"
+          if python .github/scripts/generate_top_langs_svg.py "$GH_USERNAME" assets/top-langs.svg && is_valid_svg assets/top-langs.svg; then
+            echo "Updated assets/top-langs.svg"
+          elif is_valid_svg assets/top-langs.svg; then
+            echo "Could not refresh assets/top-langs.svg; keeping existing valid file."
+          else
+            write_fallback_svg assets/top-langs.svg "Most used languages unavailable"
+          fi
 
       - name: Commit & push if changed
         shell: bash
@@ -95,3 +104,4 @@ jobs:
           git add assets/*.svg
           git commit -m "chore: update stats svgs"
           git push
+
