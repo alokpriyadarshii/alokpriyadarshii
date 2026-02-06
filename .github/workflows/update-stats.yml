@@ -90,14 +90,19 @@ jobs:
             write_fallback_svg assets/top-langs.svg "Most used languages unavailable"
           fi
 
+      - name: Skip PR creation without bot token
+        if: ${{ secrets.STATS_BOT_TOKEN == '' }}
+        run: |
+          echo "STATS_BOT_TOKEN is not set; skipping PR creation."
+
       - name: Create pull request if changed
-        if: ${{ hashFiles('assets/*.svg') != '' }}
+        if: ${{ secrets.STATS_BOT_TOKEN != '' && hashFiles('assets/*.svg') != '' }}
         uses: peter-evans/create-pull-request@v6
         with:
+          token: ${{ secrets.STATS_BOT_TOKEN }}
           commit-message: "chore: update stats svgs"
           title: "chore: update stats svgs"
           body: "Automated update of README stats SVGs."
           branch: "automation/update-readme-stats"
           add-paths: |
             assets/*.svg
-
