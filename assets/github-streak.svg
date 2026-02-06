@@ -1,5 +1,5 @@
 <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink'
-                style='isolation: isolate' viewBox='0 0 495 195' width='600px' height='250px' preserveAspectRatio='none' direction='ltr'>
+                style='isolation: isolate' viewBox='0 0 495 195' width='495px' height='195px' direction='ltr'>
         <style>
             @keyframes currstreak {
                 0% { font-size: 3px; opacity: 0.2; }
@@ -23,7 +23,7 @@
         </defs>
         <g clip-path='url(#outer_rectangle)'>
             <g style='isolation: isolate'>
-                <rect stroke='#FFFFFF' stroke-opacity='1' stroke-width='2' fill='#000000' rx='4.5' x='1' y='1' width='493' height='193'/>
+                <rect stroke='#000000' stroke-opacity='0' fill='#000000' rx='4.5' x='0.5' y='0.5' width='494' height='194'/>
             </g>
             <g style='isolation: isolate'>
                 <line x1='165' y1='28' x2='165' y2='170' vector-effect='non-scaling-stroke' stroke-width='1' stroke='#BEBEBE' stroke-linejoin='miter' stroke-linecap='square' stroke-miterlimit='3'/>
@@ -33,7 +33,7 @@
                 <!-- Total Contributions big number -->
                 <g transform='translate(82.5, 48)'>
                     <text x='0' y='32' stroke-width='0' text-anchor='middle' fill='#FFFFFF' stroke='none' font-family='"Segoe UI", Ubuntu, sans-serif' font-weight='700' font-size='28px' font-style='normal' style='opacity: 0; animation: fadein 0.5s linear forwards 0.6s'>
-                        172
+                        180
                     </text>
                 </g>
 
