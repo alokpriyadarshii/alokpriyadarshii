@@ -63,7 +63,7 @@
     </tr>
     <tr>
       <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokpriyadarshii&amp;layout=compact&amp;theme=github_dark&amp;hide_border=true" alt="Most Used Languages" />
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=alokpriyadarshii&amp;layout=compact&amp;theme=github-dark&amp;hide_border=true&amp;cache_seconds=21600&amp;v=2" alt="Most Used Languages" />
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=alokpriyadarshii&amp;theme=github-dark&amp;hide_border=true" alt="GitHub Streak" />
