@@ -12,7 +12,7 @@
 
 - 🎓 Final year **B.Tech Computer Engineering** student at **Thapar Institute of Engineering & Technology**
 - 🔭 Contributing to **open source GitHub projects** and building tools that create real impact
-- 🌱 Currently focusing on **companies aligned skills** and shipping practical projects
+- 🌱 Currently focusing on **company aligned skills** and shipping practical projects
 - 💬 Ask me about **DSA, Full Stack, AI/ML, Open Source**
 - 📫 Reach me at: **alokpriyadarshi618@gmail.com**
 
