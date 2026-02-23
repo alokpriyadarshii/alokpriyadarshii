@@ -28,7 +28,7 @@
 
 ### Programming Languages
 <p>
-<img src="https://skillicons.dev/icons?i=c,cpp,c#,python,java,dart,kotlin,vue,js,html,css,swift,r,ruby,go" />
+<img src="https://skillicons.dev/icons?i=c,cpp,python,java,dart,kotlin,vue,js,html,css,swift,r,ruby,go" />
 </p>
 
 ### AI/ML Libraries
