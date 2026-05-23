@@ -59,7 +59,7 @@
 
 <br>
 
-![Top Langs](https://github-readme-stats-seven-dun-47.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=12)
+![Top Langs](https://github-readme-stats-seven-dun-47.vercel.app/api/top-langs/?username=alokpriyadarshii&layout=compact&langs_count=12&size_weight=0.5&count_weight=0.5)
 
 ## 📈 Contribution Graph
 
