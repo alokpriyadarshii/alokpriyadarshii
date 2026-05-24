@@ -13,7 +13,7 @@
 - 🎓 Final year **B.Tech Computer Engineering** student at **Thapar Institute of Engineering & Technology**
 - 🔭 Contributing to **open source GitHub projects** and building tools that create real impact
 - 🌱 Currently focusing on **company aligned skills** and shipping practical projects
-- 💬 Ask me about **DSA, Full Stack, AI/ML, Open Source**
+- 💬 Ask me about **DSA, Full Stack, AI/ML, Distributed Systems, Microservices, Open Source**
 - 📫 Reach me at: **alokpriyadarshi618@gmail.com**
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" /> **Let's Connect**
