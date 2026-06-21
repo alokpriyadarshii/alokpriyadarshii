@@ -10,6 +10,8 @@
 
 ## 👤 About Me
 
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/b4bcd3ba-594a-4e7e-be5b-7ba030a1eaa7" />
+
 - 🎓 Final year **B.Tech Computer Engineering** student at **Thapar Institute of Engineering & Technology**
 - 🔭 Contributing to **open source GitHub projects** and building tools that create real impact
 - 🌱 Currently focusing on **company aligned skills** and shipping practical projects
